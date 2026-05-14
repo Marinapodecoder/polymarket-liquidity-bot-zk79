@@ -1,4 +1,4 @@
-# 
+# Polymarket instant bot: leverage-trading & stop-loss-management offers the most advanced Polymarket bot, with leverage-trading and stop-loss-management. Ideal for professional
 
 
 
